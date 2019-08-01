@@ -8,11 +8,15 @@ Currently the plugin exists as a seperate script called 'dupe-and-shift-operator
 
 ## Demonstration of the operator
 Below is a demonstration of how the operator works
-![My image](seanbud.github.com/dupe-and-shift-operator/operator_demo.gif)
+![My image](https://github.com/seanbud/dupe-and-shift-operator/blob/master/img/operator_demo.gif)
+
+
+
+
 
 
 ## Typical use case
 
 Below is an example of how you could use curves to deform the meshes that this operator helps create.
-![My image](seanbud.github.com/dupe-and-shift-operator/typical_use_case.gif)
+![My image](https://github.com/seanbud/dupe-and-shift-operator/blob/master/img/typical_use_case.gif)
 
